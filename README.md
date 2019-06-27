@@ -7,7 +7,7 @@ My real time Chat App
 
 - Firebase
 - Firebase/Auth (Authentication)
-- Firebase/Database (Realtime networking websockets?)
+- Firebase/Database (Realtime networking websockets)
 - SVProgressHUD (Progress bar)
 - ChameleonFramework (colours)
 
